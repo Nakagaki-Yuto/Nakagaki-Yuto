@@ -1,11 +1,9 @@
+<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nakagaki-Yuto&show_icons=true&theme=solarized-light" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagaki-Yuto&theme=solarized-light&langs_count=3" />
-</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+![Nakagaki-Yuto's github stats](https://github-readme-stats.vercel.app/api?username=Nakagaki-Yuto&show_icons=true&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagaki-Yuto&theme=solarized-light&langs_count=3)
 
+<br><br>
 
 ## 👋 I'm Nakagaki Yuto !
 * Doshisha University :mortar_board:
