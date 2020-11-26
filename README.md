@@ -15,7 +15,7 @@
 * software engineer
 
 <br>
-　　　
+
 ## :pencil2: Languages and Tools
 * Python <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="17" height="17"/>
 * Django <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="17" height="17"/>
