@@ -14,7 +14,7 @@
 * B3
 * software engineer
 
-<br><br>
+<br>
 　　　
 ## :pencil2: Languages and Tools
 * Python <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="17" height="17"/>
@@ -24,7 +24,7 @@
 * CSS <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="17" height="17"/>
 * Go <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="17" height="17"/>
 
-<br><br>
+<br>
 
 ## :heart_eyes: Hobbies
 * soccer :soccer:
