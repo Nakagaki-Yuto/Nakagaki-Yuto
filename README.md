@@ -11,8 +11,8 @@
 
 ## 👋 I'm Nakagaki Yuto
 * Doshisha University :mortar_board:
-* B3
-* software engineer
+* B3 :boy:
+* software engineer :octocat:
 
 <br><br>
 
@@ -30,5 +30,5 @@
 * soccer :soccer:
 * music :guitar:
 * movie :clapper:
-* alcohol :beer:
+* alcohol :beers:
 * horse racing :horse_racing:
