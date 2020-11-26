@@ -1,4 +1,8 @@
-### Hi there, I am Nakagaki Yuto👋
+### I am Nakagaki Yuto👋
 
-https://github-readme-stats.vercel.app/api?username=Nakagaki-Yuto
-https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagaki-Yuto
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nakagaki-Yuto&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagaki-Yuto&layout=compact&theme=dracula" />
+</a>
