@@ -9,8 +9,8 @@
 
   
 
-## I'm Nakagaki Yuto 👋
-* Doshisha University
+## 👋 I'm Nakagaki Yuto
+* Doshisha University :mortar_board:
 * B3
 * software engineer
 
