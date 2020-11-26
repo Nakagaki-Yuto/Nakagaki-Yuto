@@ -4,9 +4,9 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagaki-Yuto&theme=solarized-light&langs_count=3" />
-</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<div>
+
 ## 👋 I'm Nakagaki Yuto !
 * Doshisha University :mortar_board:
 * B3 :boy:
@@ -30,7 +30,7 @@
 * movie :clapper:
 * alcohol :beers:
 * horse racing :horse_racing:
-</div>
+
 
 
 
