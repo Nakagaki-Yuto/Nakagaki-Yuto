@@ -5,7 +5,7 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagaki-Yuto&theme=solarized-light" />
-</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -14,7 +14,7 @@
 * B3 :boy:
 * software engineer :octocat:
 
-<br><br>
+<br>
 
 ## :pencil2: Languages and Tools
 * Python <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="17" height="17"/>
@@ -24,7 +24,7 @@
 * CSS <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="17" height="17"/>
 * Go <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="17" height="17"/>
 
-<br><br>
+<br>
 
 ## :heart_eyes: Hobbies
 * soccer :soccer:
