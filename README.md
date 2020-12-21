@@ -25,7 +25,7 @@
 * music :guitar:
 * movie :clapper:
 * alcohol :beers:
-* horse racing :horse_racing:
+
 
 
 
