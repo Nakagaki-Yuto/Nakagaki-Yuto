@@ -21,7 +21,6 @@
 ## :heart_eyes: Hobbies
 * soccer :soccer:
 * music :guitar:
-* movie :clapper:
 * alcohol :beers:
 
 
