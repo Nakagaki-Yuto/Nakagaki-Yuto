@@ -8,16 +8,16 @@
 ## 👋 I'm Nakagaki Yuto !
 * Doshisha University :mortar_board:
 * B3 :boy:
-* software engineer :octocat:
+* software engineer :octocat
 
 
 ## :pencil2: Languages and Tools
-* Python
-* JavaScript
-* Go
+* Python:
+* JavaScript:
+* Go:
 
-* AWS
-* Django
+* AWS:
+* Django:
 
 
 ## :heart_eyes: Hobbies
