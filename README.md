@@ -12,12 +12,12 @@
 
 
 ## :pencil2: Languages and Tools
-* Python:
-* JavaScript:
-* Go:
-
-* AWS:
-* Django:
+* Python
+* JavaScript
+* Go
+<br>
+* AWS
+* Django
 
 
 ## :heart_eyes: Hobbies
