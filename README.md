@@ -12,10 +12,12 @@
 
 
 ## :pencil2: Languages and Tools
-* Python <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="17" height="17"/>
-* Django <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="17" height="17"/>
-* JavaScript <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="17" height="17"/>
-* Go <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="17" height="17"/>
+* Python
+* JavaScript
+* Go
+
+* AWS
+* Django
 
 
 ## :heart_eyes: Hobbies
