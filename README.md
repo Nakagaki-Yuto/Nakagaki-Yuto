@@ -15,8 +15,6 @@
 * Python
 * JavaScript
 * Go
-<br>
-
 * AWS
 * Django
 
