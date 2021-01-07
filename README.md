@@ -8,7 +8,7 @@
 ## 👋 I'm Nakagaki Yuto !
 * Doshisha University :mortar_board:
 * B3 :boy:
-* software engineer :octocat
+* software engineer :octocat:
 
 
 ## :pencil2: Languages and Tools
