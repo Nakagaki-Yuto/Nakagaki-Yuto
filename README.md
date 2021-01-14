@@ -1,7 +1,7 @@
 <br>
 
 ![Nakagaki-Yuto's github stats](https://github-readme-stats.vercel.app/api?username=Nakagaki-Yuto&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagaki-Yuto&theme=dark&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagaki-Yuto&theme=dark)
 
 <br>
 
