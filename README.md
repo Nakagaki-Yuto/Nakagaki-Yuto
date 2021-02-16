@@ -14,7 +14,7 @@
 ## :pencil2: Languages and Tools
 * Python
 * JavaScript
-* Go
+* Golang
 * AWS
 * Django
 
