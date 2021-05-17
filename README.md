@@ -7,7 +7,7 @@
 
 ## 👋 I'm Nakagaki Yuto !
 * Doshisha University :mortar_board:
-* B3 :boy:
+* B4 :boy:
 * software engineer :octocat:
 
 
@@ -15,7 +15,6 @@
 * Python
 * JavaScript
 * Golang
-* AWS
 * Django
 
 
