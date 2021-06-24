@@ -1,9 +1,4 @@
-<br>
 
-![Nakagaki-Yuto's github stats](https://github-readme-stats.vercel.app/api?username=Nakagaki-Yuto&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagaki-Yuto&theme=dark)
-
-<br>
 
 ## 👋 I'm Nakagaki Yuto !
 * Doshisha University :mortar_board:
@@ -11,11 +6,12 @@
 * software engineer :octocat:
 
 
-## :pencil2: Languages and Tools
+## :pencil2: Languages
 * Python
 * JavaScript
+* TypeScript
 * Golang
-* Django
+* C#
 
 
 ## :heart_eyes: Hobbies
