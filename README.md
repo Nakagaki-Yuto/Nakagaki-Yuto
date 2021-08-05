@@ -7,11 +7,10 @@
 
 
 ## :pencil2: Languages
-* Python
-* JavaScript
-* TypeScript
-* Golang
-* C#
+* Python / Django
+* TypeScript / React
+* Golang / Echo
+* C# / .NET Core
 
 
 ## :heart_eyes: Hobbies
