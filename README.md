@@ -9,7 +9,6 @@
 ## :pencil2: Languages
 * Python / Django
 * TypeScript / React, Next
-* Golang / Echo
 * C# / .NET Core
 
 
