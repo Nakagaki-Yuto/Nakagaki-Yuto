@@ -14,8 +14,7 @@
 
 ## :heart_eyes: Hobbies
 * soccer :soccer:
-* music / Rock, HipHop 🎤
-* horse racing 🏇
+* music 🎤
 
 
 
