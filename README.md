@@ -6,7 +6,7 @@
 * software engineer :octocat:
 
 
-## :pencil2: Languages
+## :pencil2: Skills
 * Python / Django
 * TypeScript / React, Next
 * C# / .NET Core
