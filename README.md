@@ -14,7 +14,7 @@
 
 ## :heart_eyes: Hobbies
 * soccer :soccer:
-* music ♪
+* music 🎸
 
 
 
