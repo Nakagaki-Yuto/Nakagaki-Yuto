@@ -7,9 +7,9 @@
 
 
 ## :pencil2: Skills
-* Python / Django
 * TypeScript / React, Next
 * C# / .NET Core
+* * Python / Django
 
 
 ## :heart_eyes: Hobbies
