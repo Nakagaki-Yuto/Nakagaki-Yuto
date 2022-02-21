@@ -12,13 +12,3 @@
 * Python / Django
 
 
-## :heart_eyes: Hobbies
-* soccer :soccer:
-* music 🎸
-
-
-
-
-
-
-
