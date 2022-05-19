@@ -1,8 +1,6 @@
 
 
-## 👋 I'm Nakagaki Yuto !
-* Doshisha University :mortar_board:
-* B4 :boy:
+## 👋 I'm Yuto Nakagaki!
 * software engineer :octocat:
 
 
