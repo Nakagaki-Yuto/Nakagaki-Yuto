@@ -8,7 +8,7 @@
 
 ## :pencil2: Skills
 * TypeScript / React, Next
-* C# / .NET Core
+* C# / .NET
 * Python / Django
 
 
