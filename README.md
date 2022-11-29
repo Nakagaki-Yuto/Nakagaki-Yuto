@@ -1,10 +1,9 @@
 
+### Profile
+- software engineer :octocat:
 
-## 👋 I'm Yuto Nakagaki!
-* software engineer :octocat:
 
-
-## :pencil2: Skills
+### Skills
 * TypeScript / React, Next
 * Python / Django
 
