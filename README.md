@@ -1,9 +1,9 @@
 
-### Profile
+## Profile
 - software engineer :octocat:
 
 
-### Skills
+## Skills
 * TypeScript / React, Next
 * Python / Django
 
