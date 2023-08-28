@@ -5,6 +5,4 @@
 
 ## Skills
 * TypeScript / React, Next
-* Python / Django
-
 
