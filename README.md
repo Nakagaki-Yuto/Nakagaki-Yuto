@@ -4,5 +4,5 @@
 
 
 ## Skills
-* TypeScript / React, Next
+* TypeScript / React
 
