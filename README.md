@@ -5,4 +5,5 @@
 
 ## Skills
 * TypeScript / React
+* DDD
 
